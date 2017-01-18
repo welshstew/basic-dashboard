@@ -1,8 +1,0 @@
----
-buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":5},{\"label\":\"Leverage\",\"value\":4},{\"label\":\"Pivoting\",\"value\":3},{\"label\":\"Web
-  2.0\",\"value\":2},{\"label\":\"Turn-key\",\"value\":4},{\"label\":\"Synergy\",\"value\":5},{\"label\":\"Streamlininess\",\"value\":6},{\"label\":\"Paradigm
-  shift\",\"value\":5},{\"label\":\"Exit strategy\",\"value\":7}],\"id\":\"buzzwords\",\"updatedAt\":1484737990}\n\n"
-valuation: "data: {\"current\":33,\"last\":45,\"id\":\"valuation\",\"updatedAt\":1484737990}\n\n"
-karma: "data: {\"current\":135776,\"last\":98395,\"id\":\"karma\",\"updatedAt\":1484737990}\n\n"
-synergy: "data: {\"value\":86,\"id\":\"synergy\",\"updatedAt\":1484737990}\n\n"
-convergence: "data: {\"points\":[{\"x\":42,\"y\":45},{\"x\":43,\"y\":34},{\"x\":44,\"y\":5},{\"x\":45,\"y\":25},{\"x\":46,\"y\":16},{\"x\":47,\"y\":28},{\"x\":48,\"y\":16},{\"x\":49,\"y\":29},{\"x\":50,\"y\":49},{\"x\":51,\"y\":39}],\"id\":\"convergence\",\"updatedAt\":1484737990}\n\n"
