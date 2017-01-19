@@ -18,7 +18,7 @@ if File.exists?(tokenFilename) then
 	token = IO.read(tokenFilename) 
 else
   # just putting my current token here to test
-  token = "fodpW7RlF_TgMq4kUITGRNc-yrjQXXg6spmyk0vAnjI"
+  token = "sKxDTx5qvwQAKV9GJ8CxDn9nsM2kihTD6BTt_gWtf00"
 	log.info("token file does not exist")	
 end
 
