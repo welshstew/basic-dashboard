@@ -55,7 +55,7 @@ SCHEDULER.every '10s' do
     
     log.info("camel-springboot-data podname: #{podName}")
 
-    # setup http
+    # s
     url = URI.parse("#{server}/api/v1/namespaces/#{namespace}/pods/https:#{podName}:8778/proxy/jolokia/exec/#{mbean}")
     http = Net::HTTP.new(url.host, port)
     http.use_ssl = (url.scheme == 'https')
